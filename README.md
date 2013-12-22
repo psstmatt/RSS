@@ -3,12 +3,12 @@ RSS
 
 RSS Feeds of Matt Reynolds
 
--LOL
+-LOL  
 --[Scoopertino](http://scoopertino.com/feed/)  
 --[Stupid Calculations](http://www.stupidcalculations.com/blog?format=rss)  
 --[Comics, Quizzes, and Stories - The Oatmeal](http://theoatmeal.com/feed/rss)  
 
--DESIGN
+-DESIGN  
 --[Morgan Knutson](http://articles.morganallanknutson.com/feed)  
 --[Meng To - UI/UX Designer](http://blog.mengto.com/feed)  
 --[Cabel.me](http://cabel.me)  
@@ -16,12 +16,12 @@ RSS Feeds of Matt Reynolds
 --[Abduzeedo | Graphic Design Inspiration and Photoshop Tutorials](http://abduzeedo.com/frontpage/feed)  
 --[Stemmings](http://stemmings.com/feed/)  
 
--GAMING
+-GAMING  
 --[The Behemoth Development Blog](http://devblog.thebehemoth.com/feed/)  
 --[Polygon -  All](http://www.polygon.com/rss/index.xml)  
 --[Touch Arcade: iPod Touch and iPhone Game Reviews and News](http://toucharcade.com/feed/)  
 
--TECH
+-TECH  
 --[The Verge](http://theverge.com/rss/index.xml)  
 --[The Robocat Blog](http://blog.robocatapps.com/rss)  
 --[The Wirecutter](http://feeds.feedburner.com/TheWirecutter)  
@@ -32,11 +32,11 @@ RSS Feeds of Matt Reynolds
 --[Daring Fireball](http://daringfireball.net/index.xml)  
 --[TechCrunch](http://feeds.feedburner.com/Techcrunch)  
 
--OTHER
+-OTHER  
 --[Burger Digest](http://burgerdigest.com/feed/rss/)  
 --[Autoblog](http://www.autoblog.com/rss.xml)  
 
--PEOPLE
+-PEOPLE  
 --[Delta Tango Bravo](http://www.deltatangobravo.com/feed)  
 --[fat xxx](http://byfat.xxx/feed)  
 --[Visual Idiot](http://feeds.feedburner.com/visualidiot)  
